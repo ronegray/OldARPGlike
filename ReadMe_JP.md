@@ -131,7 +131,7 @@
 ## **＝　ステータスの説明　＝**  
 | 画面イメージ | アイコンの意味 | 
 |:-----------|:------------|  
-| <img width="270" alt="ステータスウインドウ" src="image-11.png"> | キャラの名前  <br> <img width="15" alt="HPアイコン" src="image.png">・・・現在のＨＰ  <br><img width="15" alt="食料アイコン" src="image-1.png">・・・食料の所持数  <br><img width="15" alt="経験値アイコン" src="image-2.png">・・・累計獲得経験値  <br><img width="15" alt="所持金アイコン" src="image-3.png">・・・所持金  <br><img width="15" alt="魔法アイコン" src="image-4.png">・・・選択中の魔法  <br><img width="15" alt="アイテムアイコン" src="image-5.png">・・・選択中のアイテム  <br><img width="15" alt="鍵アイコン" src="image-6.png">・・・鍵の所持数  <br><img width="15" alt="霊薬アイコン" src="image-7.png">・・・霊薬の所持数  <br><img width="15" alt="火デバフアイコン" src="image-8.png">・・・火術デバフ効果時間  <br><img width="15" alt="氷デバフアイコン" src="image-9.png">・・・氷術デバフ効果時間  <br><img width="15" alt="風デバフアイコン" src="image-10.png">・・・風術デバフ効果時間  |
+| <img width="270" alt="ステータスウインドウ" src="img/image-11.png"> | キャラの名前  <br> <img width="15" alt="HPアイコン" src="image.png">・・・現在のＨＰ  <br><img width="15" alt="食料アイコン" src="image-1.png">・・・食料の所持数  <br><img width="15" alt="経験値アイコン" src="image-2.png">・・・累計獲得経験値  <br><img width="15" alt="所持金アイコン" src="image-3.png">・・・所持金  <br><img width="15" alt="魔法アイコン" src="image-4.png">・・・選択中の魔法  <br><img width="15" alt="アイテムアイコン" src="image-5.png">・・・選択中のアイテム  <br><img width="15" alt="鍵アイコン" src="image-6.png">・・・鍵の所持数  <br><img width="15" alt="霊薬アイコン" src="image-7.png">・・・霊薬の所持数  <br><img width="15" alt="火デバフアイコン" src="image-8.png">・・・火術デバフ効果時間  <br><img width="15" alt="氷デバフアイコン" src="image-9.png">・・・氷術デバフ効果時間  <br><img width="15" alt="風デバフアイコン" src="image-10.png">・・・風術デバフ効果時間  |
 <br>
 
 ### **＝　食料について　＝**
@@ -246,4 +246,5 @@
 Copyright (c) 2025 MoQ  All rights reserved.  
 Pyxel  (c) 2018-2025 Takashi Kitao  
 8bit BGM generator (c) @frenchbread1222  
+
 
