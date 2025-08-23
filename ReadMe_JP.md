@@ -133,9 +133,13 @@
 
 ### **＝　武器種別の特徴　＝**  
 杖　　・・・　攻撃力と範囲も距離もノックバック距離も短いが、攻撃速度が速く、唯一魔法攻撃力上昇補正を持つ。  
+　　　　　　　<img alt="杖" src="img/imagew1.png">  
 剣　　・・・　射程が少し短い以外に欠点のない、バランスの取れた武器。  
+　　　　　　　<img alt="剣" src="img/imagew2.png">  
 槍　　・・・　最大射程と引き換えに攻撃力、速度、範囲、ノックバック距離は控えめ。  
+　　　　　　　<img alt="槍" src="img/imagew3.png">  
 斧　　・・・　最大の攻撃力とノックバック距離、範囲を持つが、速度が非常に遅い。  
+　　　　　　　<img alt="斧" src="img/imagew4.png">  
 <br>
 
 ### **＝　防具種別の特徴　＝**  
@@ -259,5 +263,6 @@
 Copyright (c) 2025 MoQ  All rights reserved.  
 Pyxel  (c) 2018-2025 Takashi Kitao  
 8bit BGM generator (c) @frenchbread1222  
+
 
 
