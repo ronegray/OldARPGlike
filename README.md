@@ -171,7 +171,7 @@
 <br>
 
 ### **＝　ミニマップの説明　＝**  
-<img width="300" alt="ミニマップ" src="img/image-16.png">
+<img width="500" alt="ミニマップ" src="img/image-16.png">
 <br>
 
 ### **-=　武器種別の特徴　=-**  
