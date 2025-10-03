@@ -1,0 +1,11 @@
+このアプリケーションの開発はPyxel2.3.18の環境行われました。
+pyxappファイルも同環境にて作成されています。
+但し、Pyxel2.5.7環境で作成したexeの動作も簡易確認が取れている為、
+Pyxel2.4以降の環境でも恐らく動作すると思います。
+
+
+
+This application was developed using the Pyxel 2.3.18 environment. 
+The pyxapp file was also created in this environment.
+However, since the executable created in the Pyxel 2.5.7 environment has been verified to function,
+ it should likely run in Pyxel 2.4 or later environments as well.
