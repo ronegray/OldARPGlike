@@ -30,9 +30,10 @@ GAME_FPS = 60
 ASSET_FILE = "assets/assets.pyxres"
 FONTFILE = "assets/umplus_j12r.bdf"
 JP_FONT = ""
-ENCRYPT_KEY = b"OAl25XA7HYs26"
-DATA_HEADER = b"\x7F\x70\x79\x78"
+ENCRYPT_KEY = "**"
+DATA_HEADER = "**"
 APP_VERSION = "2.0.0"
 
 #パラメータ（算出）
+
 #対象無し
